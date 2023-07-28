@@ -1,0 +1,5 @@
+{
+    "product_name": "Project Name",
+    "company_name": "pmlbrito",
+    "organization_identifier": "com.{{cookiecutter.company_name}}.{{cookiecutter.product_name}}"
+}
